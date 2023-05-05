@@ -1,0 +1,41 @@
+.background{
+    background-color: white;
+    height: 700px;
+}
+
+.card{
+    margin-top: 100px;
+    border: 5px;
+}
+
+.header1{
+    text-align: center;
+    
+}
+
+.img {
+    display: inline-block;
+    border-radius: 30px;
+    width: 300px;
+    margin-right: 50px;
+
+    
+}
+.boom{
+    text-align: center;
+   display: inline-block;
+   border: 2px solid black;
+   margin-left: 300px;
+   margin-right: 300px;
+    margin-bottom: 1000px;
+
+
+}
+
+.footer {
+    text-align: center;
+    background-color: #BD8D68;
+    color: black;
+    margin-top: 1000px;
+}
+
